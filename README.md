@@ -5,4 +5,4 @@
 - 🌱 I’m currently improving my knowledge in Tableau and SQL.
 - 📫 How to reach me: at danielcalvocosta@gmail.com or at my Linkedin account: https://www.linkedin.com/in/daniel-calvo-costa/
 
-![This is an image](https://www.tvmovie.de/bilder/758/2020/11/09/79527-titanic-ship.jpg?itok=vOUeBNq0)
+
